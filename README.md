@@ -6,3 +6,6 @@ Database size : - Old Testament pl.db 4.2MB size
 Database must put in internal storage manualy.
 Android version 14  or newer.
 
+NB: Old Testament file on branch p_lama
+
+
