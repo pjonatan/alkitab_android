@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PB</string>
+    <string name="tampil">Tampil</string>
+ 
+	<string-array name="kitab">
+        <item>Matius</item>
+        <item>Markus</item>
+        <item>Lukas</item>
+        <item>Yohanes</item>
+        <item>Kisah</item>
+        <item>Roma</item>
+        <item>1_Korintus</item>
+        <item>2_Korintus</item>
+        <item>Galatia</item>
+        <item>Epesus</item>
+        <item>Filipi</item>
+        <item>Kolose</item>
+        <item>1_Tesalonika</item>
+        <item>2_Tesalonika</item>
+        <item>1_Timotius</item>
+        <item>2_Timotius</item>
+        <item>Titus</item>
+        <item>Filemon</item>
+        <item>Ibrani</item>
+        <item>Yakobus</item>
+        <item>1_Petrus</item>
+        <item>2_Petrus</item>
+        <item>1_Yohanes</item>
+        <item>2_Yohanes</item>
+        <item>3_Yohanes</item>
+        <item>Yudas</item>
+        <item>Wahyu</item>
+    </string-array>    
+
+</resources>
