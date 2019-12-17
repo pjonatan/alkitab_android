@@ -144,7 +144,7 @@ public class Main  extends Activity  {
             public void onClick(View v) {
             	
             	d_sp = sP.getSelectedItem().toString();
-
+		if(smt<1)smt=1;
                 try {
                     Intent intent = new Intent(Main.this, Tampil.class);
                     intent.putExtra("Pindah", (String) d_sp + "/" + String.valueOf(smt));
