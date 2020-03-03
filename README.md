@@ -9,3 +9,4 @@ Android version 14  or newer.
 NB: Old Testament file on branch p_lama
 
 If someone need modification, please contact me at: pjtht@protonmail.com or there was something error please inform me too.
+Or contact me with WA: +6289651280747
